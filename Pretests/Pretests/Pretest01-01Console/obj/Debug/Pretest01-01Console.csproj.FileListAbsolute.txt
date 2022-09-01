@@ -1,0 +1,8 @@
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest01-01Console\bin\Debug\Pretest01-01Console.exe.config
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest01-01Console\bin\Debug\Pretest01-01Console.exe
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest01-01Console\bin\Debug\Pretest01-01Console.pdb
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest01-01Console\obj\Debug\Pretest01-01Console.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest01-01Console\obj\Debug\Pretest01-01Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest01-01Console\obj\Debug\Pretest01-01Console.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest01-01Console\obj\Debug\Pretest01-01Console.exe
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest01-01Console\obj\Debug\Pretest01-01Console.pdb

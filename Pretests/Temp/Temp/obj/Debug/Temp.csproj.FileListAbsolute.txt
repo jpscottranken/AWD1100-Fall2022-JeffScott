@@ -1,0 +1,11 @@
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Temp\Temp\bin\Debug\Temp.exe.config
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Temp\Temp\bin\Debug\Temp.exe
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Temp\Temp\bin\Debug\Temp.pdb
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Temp\Temp\obj\Debug\Temp.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Temp\Temp\obj\Debug\Temp.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Temp\Temp\obj\Debug\Temp.Properties.Resources.resources
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Temp\Temp\obj\Debug\Temp.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Temp\Temp\obj\Debug\Temp.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Temp\Temp\obj\Debug\Temp.exe
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Temp\Temp\obj\Debug\Temp.pdb
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Temp\Temp\obj\Debug\Temp.frmConverter.resources

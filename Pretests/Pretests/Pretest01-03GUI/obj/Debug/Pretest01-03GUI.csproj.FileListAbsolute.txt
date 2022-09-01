@@ -1,0 +1,11 @@
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest01-03GUI\bin\Debug\Pretest01-03GUI.exe.config
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest01-03GUI\bin\Debug\Pretest01-03GUI.exe
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest01-03GUI\bin\Debug\Pretest01-03GUI.pdb
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest01-03GUI\obj\Debug\Pretest01-03GUI.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest01-03GUI\obj\Debug\Pretest01-03GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest01-03GUI\obj\Debug\Pretest01_03GUI.frmGrades.resources
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest01-03GUI\obj\Debug\Pretest01_03GUI.Properties.Resources.resources
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest01-03GUI\obj\Debug\Pretest01-03GUI.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest01-03GUI\obj\Debug\Pretest01-03GUI.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest01-03GUI\obj\Debug\Pretest01-03GUI.exe
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest01-03GUI\obj\Debug\Pretest01-03GUI.pdb

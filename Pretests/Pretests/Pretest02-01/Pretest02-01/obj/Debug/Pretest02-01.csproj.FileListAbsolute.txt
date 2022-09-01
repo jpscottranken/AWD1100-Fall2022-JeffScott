@@ -1,0 +1,11 @@
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest02-01\Pretest02-01\bin\Debug\Pretest02-01.exe.config
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest02-01\Pretest02-01\bin\Debug\Pretest02-01.exe
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest02-01\Pretest02-01\bin\Debug\Pretest02-01.pdb
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest02-01\Pretest02-01\obj\Debug\Pretest02-01.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest02-01\Pretest02-01\obj\Debug\Pretest02-01.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest02-01\Pretest02-01\obj\Debug\Pretest02_01.frmTempConverter.resources
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest02-01\Pretest02-01\obj\Debug\Pretest02_01.Properties.Resources.resources
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest02-01\Pretest02-01\obj\Debug\Pretest02-01.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest02-01\Pretest02-01\obj\Debug\Pretest02-01.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest02-01\Pretest02-01\obj\Debug\Pretest02-01.exe
+C:\Users\jpscott\Desktop\AWD1100-Fall2022-YourName\Pretests\Pretests\Pretest02-01\Pretest02-01\obj\Debug\Pretest02-01.pdb
